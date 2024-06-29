@@ -55,28 +55,28 @@ Architect
 - BI Analyst;
   ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
   ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
-- IDE & version control;
+- IDE & version control:
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
   ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- !Design and Visualization;
+- Design and Visualization:
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
   ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
   ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
   ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-- !Project Management;
+- Project Management;
   ![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-- ! Architecture and CAD;
- ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)
- ![Revit](https://img.shields.io/badge/Revit-0078D4?style=for-the-badge&logo=autodesk&logoColor=white)
- ![ArchiCAD](https://img.shields.io/badge/ArchiCAD-8FC6E6?style=for-the-badge&logo=archicad&logoColor=white)
--! Office Suite;
- ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
- ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
- ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
- ![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+- Architecture and CAD:
+  ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)
+  ![Revit](https://img.shields.io/badge/Revit-0078D4?style=for-the-badge&logo=autodesk&logoColor=white)
+  ![ArchiCAD](https://img.shields.io/badge/ArchiCAD-8FC6E6?style=for-the-badge&logo=archicad&logoColor=white)
+- Office Suite:
+  ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+  ![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 
 
