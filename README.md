@@ -89,9 +89,14 @@ Phone: +57 1 320 403 7663
 
 ### Desarrollo Ejercicio Integrador M5 Airbnb Ciudad de Buenos Aires
 
-<div align="center">
-  <a href="https://github.com/psm545/Desarrollo-Ejercicio-Integrador-M5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=psm545&repo=Desarrollo-Ejercicio-Integrador-M5&theme=tokyonight" alt="Desarrollo Ejercicio Integrador M5">
+<div align="left">
+  <a href="https://github.com/psm545/Data-Analyst-Airbnb-Ei-M5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=psm545&repo=Data Analyst Airbnb Buenos Aires M5 EI&theme=tokyonight" alt="Data Analyst Airbnb Buenos Aires EI M5">
   </a>
 </div>
 
+<div align="right">
+  <a href="https://github.com/psm545/Modelo-de-ML-Clinico-M6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=psm545&repo=Machine Learning modelo clinico M6 &theme=tokyonight" alt="Machine Learning modelo clinico M6">
+  </a>
+</div>
