@@ -87,7 +87,7 @@ Phone: +57 1 320 403 7663
 
 ## 🌟 Featured Projects
 
-### Desarrollo Ejercicio Integrador M5 Airbnb Ciudad de Buenos Aires
+
 
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; margin-right: 10px;">
