@@ -89,14 +89,45 @@ Phone: +57 1 320 403 7663
 
 ### Desarrollo Ejercicio Integrador M5 Airbnb Ciudad de Buenos Aires
 
-<div align="left">
-  <a href="https://github.com/psm545/Data-Analyst-Airbnb-Ei-M5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=psm545&repo=Data Analyst Airbnb Buenos Aires M5 EI&theme=tokyonight" alt="Data Analyst Airbnb Buenos Aires EI M5">
-  </a>
-</div>
-
-<div align="right">
-  <a href="https://github.com/psm545/Modelo-de-ML-Clinico-M6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=psm545&repo=Machine Learning modelo clinico M6 &theme=tokyonight" alt="Machine Learning modelo clinico M6">
-  </a>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Projects</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+        }
+        .project {
+            width: 45%;
+            padding: 20px;
+            border: 1px solid #ccc;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .project h3 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        .project p {
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="project">
+            <h3><a href="URL_DEL_PROYECTO_1" target="_blank">TITULO_PROYECTO_1</a></h3>
+            <p>DESCRIPCION_PROYECTO_1</p>
+        </div>
+        <div class="project">
+            <h3><a href="URL_DEL_PROYECTO_2" target="_blank">TITULO_PROYECTO_2</a></h3>
+            <p>DESCRIPCION_PROYECTO_2</p>
+        </div>
+    </div>
+</body>
+</html>
