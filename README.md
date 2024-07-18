@@ -89,7 +89,7 @@ Phone: +57 1 305 411 7513
 
 
 
+[![Machine Learning modelo clinico M6](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=psm545&repo=Modelo-de-ML-Clinico-M6&theme=dark)](https://github.com/psm545/Modelo-de-ML-Clinico-M6)
+[![Data Analyst Airbnb Buenos Aires EI M5](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=psm545&repo=Data-Analyst-Airbnb-Ei-M5&theme=dark)](https://github.com/psm545/Data-Analyst-Airbnb-Ei-M5)
 
-[![Machine Learning modelo clinico M6](https://github-readme-stats.vercel.app/api/pin/?username=psm545&repo=Modelo-de-ML-Clinico-M6)](https://github.com/psm545/Modelo-de-ML-Clinico-M6)
-[![Data Analyst Airbnb Buenos Aires EI M5](https://github-readme-stats.vercel.app/api/pin/?username=psm545&repo=Data-Analyst-Airbnb-Ei-M5)](https://github.com/psm545/Data-Analyst-Airbnb-Ei-M5)
 
