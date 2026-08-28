@@ -15,7 +15,7 @@ I am an emerging Data Scientist with comprehensive training in Data Science from
 ## 🎓 Education
 
 ### Academia SoyHenry
-Certification in Data Science, Data Science (In progress, October 2023 - October 2024)
+Certification in Data Science, Data Science (October 2023 - October 2024)
 
 Bachelor's degree specialized in Data Science.
 Proficient in advanced analytics and machine learning techniques.
